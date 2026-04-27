@@ -1,0 +1,17 @@
+[33mcommit ee03237966da8cf5592267ab031679de84781f9d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Leonardo Rezende <engleonardorezende@gmail.com>
+Date:   Sun Apr 26 22:26:05 2026 -0300
+
+    carrega dados e analise inicial do dataset
+
+[33mcommit 7fda932081f2168e4479faf556269ef3c10122d6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Leonardo Rezende <engleonardorezende@gmail.com>
+Date:   Sun Apr 26 22:17:27 2026 -0300
+
+    1
+
+[33mcommit b81833767b5138ecf5a71b9a32693ff3da023b59[m
+Author: Leonardo Rezende <engleonardorezende@gmail.com>
+Date:   Sun Apr 26 22:03:33 2026 -0300
+
+    estrutura inicial do projeto
